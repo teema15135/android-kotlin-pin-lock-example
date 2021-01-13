@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PinLockExample</string>
+    <string name="no_pin_entered">No pin entered</string>
+    <string name="show_pin_lock">Show Pin-lock</string>
+</resources>
