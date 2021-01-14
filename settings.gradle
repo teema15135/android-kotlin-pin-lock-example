@@ -1,2 +1,3 @@
+include ':pinlock'
 include ':app'
 rootProject.name = "PinLockExample"
