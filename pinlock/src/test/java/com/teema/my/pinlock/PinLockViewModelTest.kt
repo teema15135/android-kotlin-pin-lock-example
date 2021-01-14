@@ -1,4 +1,4 @@
-package com.teema.pinlock.pinlock
+package com.teema.my.pinlock
 
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
 import org.junit.Assert.assertEquals

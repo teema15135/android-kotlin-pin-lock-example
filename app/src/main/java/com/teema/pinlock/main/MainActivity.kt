@@ -6,7 +6,7 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import com.teema.pinlock.databinding.ActivityMainBinding
-import com.teema.pinlock.pinlock.PinLockFragment
+import com.teema.my.pinlock.PinLockFragment
 
 class MainActivity : AppCompatActivity() {
 
